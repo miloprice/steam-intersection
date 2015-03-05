@@ -1,5 +1,5 @@
 # steam-intersection
-Very quick Python script for finding the intersection of your and a friend's games on Steam.
+Very simple Python script for finding the games that you and a friend have in common on Steam.
 
 ```
 usage: steam_intersection.py [-h] [--key KEY] [--steamids ID ID]
